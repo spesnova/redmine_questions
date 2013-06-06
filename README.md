@@ -1,5 +1,5 @@
 # Redmine Q&A plugin
-This repo is mirror of Redmine Q&A plugin for personal use, in order to handle as git submodule.
+NOTE!! **This repo is mirror of Redmine Q&A plugin for personal use, in order to handle as git submodule.**
 
 ## About this plugin 
 With this plugin, you can add Questions and Answers functionality to your Redmine
@@ -8,7 +8,7 @@ With this plugin, you can add Questions and Answers functionality to your Redmin
 
 ## Author
 
-* [Kirill Bezrukov](http://www.redmine.org/users/2250)
+[Kirill Bezrukov](http://www.redmine.org/users/2250)
 
 ## License
 
