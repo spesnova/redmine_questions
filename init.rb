@@ -1,3 +1,4 @@
+# encoding: utf-8
 require 'redmine_questions'
 
 
@@ -12,7 +13,7 @@ Redmine::Plugin.register :redmine_questions do
   requires_redmine :version_or_higher => '2.1.2'   
   
   settings :default => {
-    :notice_message => '*Can\'t find the answer you\'re looking for?* Email us at ...'
+    :notice_message => 'お探しの情報は見つかりませんでしたか？ 担当者までご連絡ください！'
   }, :partial => 'settings/questions'
 
   permission :view_questions, { 

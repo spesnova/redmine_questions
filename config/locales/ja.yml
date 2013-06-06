@@ -1,0 +1,28 @@
+# japanese strings go here for Rails i18n
+ja:
+  label_questions: 'ヘルプとサポート'
+  label_questions_search: 'キーワードを入力して質問 / 回答 / 改善案を検索'
+  label_questions_new: '新しいトピック'
+  label_questions_message: 'トピック'
+  label_questions_added_time: "Added %{value} ago"
+  label_questions_related_messages: '関連するトピック'
+  label_questions_latest_messages: '最新のトピック'
+  label_questions_views: '%{count} 回閲覧'
+  label_questions_votes: '%{count} いいね'
+  label_questions_answers: '%{count} つの回答'
+  label_questions_tags: 'タグ'
+  label_questions_tagged_by: '%{count} topic(s) tagged by %{tag}'
+  label_questions_notice_message: 'お探しの情報は見つかりませんでしたか？ 担当者までご連絡ください！'
+  label_questions_notice: 'こんにちは !'
+  label_questions_most_voted: '一番多く見られているトピック'
+
+  button_questions_vote: 'いいね'
+  button_questions_unvote: 'いいね をやめる'
+  button_questions_like: Like
+  button_questions_unlike: Unlike
+
+  field_questions_tags: 'タグ'
+
+  permission_view_questions: View Help & Support
+  permission_edit_messages_tags: Edit tags
+  permission_edit_vote_messages: Vote messages
